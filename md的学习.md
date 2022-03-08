@@ -36,4 +36,5 @@
 
 换行
 1.为</BR>abc</BR>
-2.俩空格abc  abc
+2.俩空格abc  
+abc
